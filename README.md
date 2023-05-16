@@ -3,7 +3,7 @@
 <h3 align="center">🌱 I’m currently learning Artificial Intelligence</h3>
 
 
-<p align="left"> <a href="https://twitter.com/vikramontweett" target="blank"><img src="[https://img.shields.io/twitter/follow/vikramontweett?logo=twitter&style=for-the-badge](https://img.shields.io/twitter/follow/vikramontweett?logo=twitter&style=for-the-badge)" alt="vikramontweett" /></a> </p>
+<p align="left"> <a href="https://twitter.com/vikramontweett" target="blank"><img src="https://img.shields.io/twitter/follow/vikramontweett?logo=twitter&style=for-the-badge" alt="vikramontweett" /></a> </p>
 
 
 
