@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/vikramontweett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vikramontweett" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vikram-singh-b482aa169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vikram Singh" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@itsvikram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="VikramOnYT" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@its_vikram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="VikramOnYT" height="30" width="40" /></a>
 </p>
 <!---
 vikramongit/vikramongit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
