@@ -24,7 +24,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vikramongit&repo=ai-integrated-ludo-game&theme=gotham" />
 </a>
 <a href="https://github.com/vikramongit/PlayChess">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vikramongit&repo=PlayChesss&theme=gotham" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vikramongit&repo=PlayChess&theme=gotham" />
 </a>
 <br />
 <br />
