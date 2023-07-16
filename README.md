@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m Vikram Singh</h1>
+<p align="center">👋 Hi, I’m [Vikram Singh](https://vikramongit.github.io/)</p>
 <h2 align="center">👀 I’m interested in game devlopment</h2>
 <h3 align="center">🌱 I’m currently learning Artificial Intelligence</h3>
 
