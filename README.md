@@ -1,6 +1,6 @@
-<p align="center">👋 Hi, I’m [Vikram Singh](https://vikramongit.github.io/)</p>
-<h2 align="center">👀 I’m interested in game devlopment</h2>
-<h3 align="center">🌱 I’m currently learning Artificial Intelligence</h3>
+👋 Hi, I’m [Vikram Singh](https://vikramongit.github.io/)
+👀 I’m interested in game devlopment</h2>
+🌱 I’m currently learning Artificial Intelligence</h3>
 
 
 <p align="left"> <a href="https://twitter.com/vikramontweett" target="blank"><img src="https://img.shields.io/twitter/follow/vikramontweett?logo=twitter&style=for-the-badge" alt="vikramontweett" /></a> </p>
