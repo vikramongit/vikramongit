@@ -20,6 +20,11 @@
 <a href="https://github.com/vikramongit/vikramongit.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vikramongit&repo=vikramongit.github.io&theme=gotham" />
 </a>
-
+<a href="https://github.com/vikramongit/ai-integrated-ludo-game">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vikramongit&repo=ai-integrated-ludo-game&theme=gotham" />
+</a>
+<a href="https://github.com/vikramongit/PlayChess">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vikramongit&repo=PlayChesss&theme=gotham" />
+</a>
 <br />
 <br />
