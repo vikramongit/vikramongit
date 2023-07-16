@@ -11,7 +11,9 @@
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vikramongit&show_icons=true&theme=gotham" alt="vikramongit" />  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikramongit&layout=compact&theme=gotham&hide_border=true" /></a> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikramongit&show_icons=true&theme=gotham" alt="vikramongit" />  
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikramongit&layout=compact&theme=gotham&hide_border=true" /></a> 
+
 #### Top Repositories
 <a href="https://github.com/vikramongit/GameOfLife">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vikramongit&repo=GameOfLife&theme=gotham" />
