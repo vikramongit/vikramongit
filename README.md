@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ZingTix Apps<br>👀 I’m interested in game development<br>👯 I’m looking to collaborate on Artificial Intelligence<br>🤝 I’m looking for someone's help<br>🌱 I’m currently learning Artificial Intelligence<br>💬 Ask me about ⚡ Fun fact
+🔭 I’m currently working on ZingTix App<br>👀 I’m interested in game development<br>👯 I’m looking to collaborate on Artificial Intelligence<br>🤝 I’m looking for someone's help<br>🌱 I’m currently learning Artificial Intelligence<br>💬 Ask me about ⚡ Fun fact
 
 
 ## 🌐 Socials:
